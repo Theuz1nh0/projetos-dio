@@ -1,5 +1,6 @@
 # projetos-dio
-Aqui estará todos os projetos que farei ao longo do tempo na plataforma DIO
+
+Aqui estará todos os projetos que farei ao longo do tempo na plataforma DIO \n
 Colocarei aqui projetos de bootcamps e etc.
 Espero que gostem dos projetos aqui colocados
 
